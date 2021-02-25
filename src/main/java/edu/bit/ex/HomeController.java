@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //#5
 //#6
 //#7
+//#8
 @Controller
 public class HomeController {
 	
